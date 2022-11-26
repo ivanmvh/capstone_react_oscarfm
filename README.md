@@ -56,6 +56,12 @@ Run the following commands to install dependencies
 
 <br>
 
+## Credits
+
+Original design idea by Nelson Sakwa on Behance.
+
+<br>
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
