@@ -16,7 +16,7 @@ This React capstone project is about building a mobile web application to check 
 <br>
 
 ## Live Demo
-[Live Demo Link](https://6381568557370915291765bd--zippy-panda-12e3c6.netlify.app/)
+[Live Demo Link](https://last3daysearthquakes.netlify.app)
 
 <br>
 
